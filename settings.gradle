@@ -1,0 +1,8 @@
+include ':app'
+rootProject.name = 'MiniAndroidPlayground'
+include 'SimpleJavaParser'
+include 'SimpleJavaAST'
+include 'SimpleJavaCompiler'
+include 'SimpleJavaSTDLib'
+include 'Main'
+

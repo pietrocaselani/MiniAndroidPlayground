@@ -1,0 +1,6 @@
+package pietrocaselani.hello
+
+class HelloMain {
+	int age { get set }
+	String name { set get }
+}
